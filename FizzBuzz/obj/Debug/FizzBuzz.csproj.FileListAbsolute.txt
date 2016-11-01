@@ -1,0 +1,6 @@
+C:\programming\FullStackDotNet\WeekThree\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\programming\FullStackDotNet\WeekThree\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\programming\FullStackDotNet\WeekThree\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\programming\FullStackDotNet\WeekThree\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\programming\FullStackDotNet\WeekThree\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\programming\FullStackDotNet\WeekThree\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
